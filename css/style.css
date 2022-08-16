@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Rubik&family=Ubuntu:ital,wght@1,300&display=swap');
+
+body{
+    background: #000;;
+    
+}
+
+.titulo{
+    color: antiquewhite;
+font-family: 'Ubuntu', sans-serif;
+}
+.bordes1{
+    border-color: 2px solid rgb(2, 12, 65);
+    background-color: rgb(2, 12, 65);
+    
+    width: 500px;
+    height: 50px;
+    font-size: x-large;
+}
+.bordes2{
+    border-color: 2px solid rgb(2, 12, 65);
+    background-color: rgb(2, 12, 65);
+    
+    width: 500px;
+    height: 150px;
+    font-size: 70px;
+    display:flex;
+}
+
+.ampm{
+    display: block;
+    font-size: 2rem;
+    margin: 0 0 0 0;
+}
